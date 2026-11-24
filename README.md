@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/VitaliiSavonenko-QA"><img alt="English (current)" src="https://img.shields.io/badge/English-0969DA?style=flat-square"></a>
+  <a href="https://github.com/VitaliiSavonenko-QA/VitaliiSavonenko-QA/blob/main/README.ru.md"><img alt="Русский" src="https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-374151?style=flat-square"></a>
+  <a href="https://github.com/VitaliiSavonenko-QA/VitaliiSavonenko-QA/blob/main/README.ko.md"><img alt="한국어" src="https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-374151?style=flat-square"></a>
+</p>
+
 <h1 align="center">Vitalii Savonenko</h1>
 <p align="center"><strong>QA Engineer | Software &amp; Game Testing</strong></p>
 <p align="center">
